@@ -1,1 +1,3 @@
-# Personal-dictionary
+# Slownik ma dzialac na zasadzie ze uzytkownik podaje klucze i wartosci do niego 
+# sekwencja ma wyswietlac: podaj (pierwszy) klucz: (po podaniu go) podaj wartosc dla klucza [nazwa klucza]: ...
+# nastepnie ma wyswietlic: czy chcesz wyjasc z tego klucza: T/N (tutaj wybieramy czy chcemy tworzyc podklucze do tego klucza)
